@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "kemarin",
+        "password": "kemarin12",
+        "database": "nodedbs",
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "kemarin",
+        "password": "kemarin12",
+        "database": "nodedbs",
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "kemarin",
+        "password": "kemarin12",
+        "database": "nodedbs",
+        "host": "localhost",
+        "dialect": "postgres"
+    }
+}
